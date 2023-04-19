@@ -29,6 +29,11 @@
     src: url("../public/fonts/Nanum_Myeongjo/NanumMyeongjo-Regular.ttf");
 }
 
+@font-face {
+    font-family: "nanum-bold";
+    src: url("../public/fonts/Nanum_Myeongjo/NanumMyeongjo-Bold.ttf");
+}
+
 :root {
     /* PADDING */
     --padding-xxxl : 160px;
