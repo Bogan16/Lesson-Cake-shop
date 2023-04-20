@@ -207,7 +207,7 @@ li {
     margin-right: 0px;
 }
 
-.bestsellers__product{
+.bestsellers__product {
     display: flex;
     margin-top: 44.5px;
     align-items: center;  
@@ -218,7 +218,7 @@ li {
 }
 
 .price {
-    font-family: "nanum-bold";
+    font-family: "nanum-bold", sans-serif;
     font-size: var(--fs-m);
     margin-left: calc(var(--margin-xxxl) - 59px);
     justify-content: center;
