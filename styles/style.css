@@ -300,6 +300,12 @@ li {
     width: 560px;
 }
 
+.icon-add__plus {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
 .order__button-wrapper {
     display: flex;
     width: 191px;
